@@ -59,7 +59,7 @@ Some of the more important risks included:
 
 * /risk_register – Full Excel risk register
 * /visuals – Screenshots and visuals
-* /report – Full written assessment
+* /report – [Full written assessment](report/home_network_risk_assessment.pdf)
 
 ## Purpose
 
